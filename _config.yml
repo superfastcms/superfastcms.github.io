@@ -1,0 +1,6 @@
+title: Bhiruva, Inc.
+description: Pioneering the Next, Together
+baseurl: "" # No base URL for GitHub Pages
+url: "https://bhiruva.com" # Update with your domain
+theme: minima # Built-in theme for fallback
+plugins: []
