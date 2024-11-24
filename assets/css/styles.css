@@ -1,0 +1,77 @@
+/* General Reset */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #FAFAFA;
+    color: #4A4A4A;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header and Hero Section */
+.hero {
+    text-align: center;
+    padding: 4em 2em;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    color: #333333;
+    margin-bottom: 0.5em;
+}
+
+.hero p {
+    font-size: 1.2em;
+    color: #666666;
+}
+
+/* Section Styling */
+section {
+    padding: 2em;
+    margin: 2em auto;
+    max-width: 800px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2, section h3 {
+    color: #333333;
+    margin-bottom: 1em;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 0.5em 0;
+    color: #555555;
+}
+
+/* Call to Action */
+.cta {
+    text-align: center;
+    background-color: #FAFAFA;
+    padding: 2em;
+    border-top: 2px solid #EEEEEE;
+}
+
+.cta h3 {
+    color: #333333;
+    margin-bottom: 1em;
+}
+
+.cta p {
+    color: #555555;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #777777;
+    margin: 2em 0;
+}
